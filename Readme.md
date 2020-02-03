@@ -16,5 +16,5 @@
 
 ![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/Projekta%20gaita.JPG)
 
+<div style="# Projekta Izstrāde :center">
 
-# Projekta Izstrāde <div style="text-align:center">
