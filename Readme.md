@@ -15,3 +15,6 @@
 Šajā tabulā ir uzrādīts mērķis pēc grūtību pakāpes
 
 ![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/Projekta%20gaita.JPG)
+
+
+# Projekta Izstrāde
