@@ -16,5 +16,19 @@
 
 ![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/Projekta%20gaita.JPG)
 
-<div style="# Projekta Izstrāde :center">
+# Projekta Izstrāde 
+
+## Nepieciešamās lietas
+
+* Arduino Uno
+* Servo motors
+* Vadi (20x)
+* Lādētājs (6-18v)
+* 16 Robu trīslis
+* Gumijas lenta ar robiem (5m)
+* L293D Mehāniskais aizsargs
+* L293D Mehāniskais drauveris IC (2x)
+* Servo motors
+* Steppera motors (ieteicams Nema17)
+
 
