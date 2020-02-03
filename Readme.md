@@ -12,4 +12,4 @@
  Ar šo zīmēšanas robotu mēs varam pārzīmēt jebkuru, pārsvarā melnbaltu, vektorgrafikas zīmējumu augstā kvalitātē, kā arī to var izmantot ne tikai zīmējumu pārzīmēšanai, bet arī teksta rakstīšanai. To var darīt gan uz sienas, gan uz papīra vai arī uz kādas plāksnes, pārsvarā jebkur kur var pievienot šo robotu.
 
 ## Kā notika projekta plānošana. 
-![Šeit būs redzama tabula ar mērķi izveidot projektu pēc grūtuma pakāpēm:](http://url/to/img.png)
+![Šeit būs redzama tabula ar mērķi izveidot projektu pēc grūtuma pakāpēm:](https://github.com/Dainis19/Arduino-Printers/blob/master/Projekta%20gaita.JPG)
