@@ -32,3 +32,5 @@
 * Steppera motors (ieteicams Nema17)
 
 
+## Shēma elektro komponentēm
+
