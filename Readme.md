@@ -34,3 +34,6 @@
 
 ## Shēma elektro komponentēm
 ![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/BLABLA.jpg)
+
+## 3D Modeļi
+
