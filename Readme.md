@@ -33,4 +33,4 @@
 
 
 ## Shēma elektro komponentēm
-
+![alt text]()
