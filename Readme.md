@@ -36,4 +36,8 @@
 ![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/BLABLA.jpg)
 
 ## 3D Modeļi
+![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/69.png)
+![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/7.png)
+![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/77.png)
+![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/9.png)
 
