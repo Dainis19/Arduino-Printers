@@ -33,4 +33,4 @@
 
 
 ## Shēma elektro komponentēm
-![alt text]()
+![alt text](https://github.com/Dainis19/Arduino-Printers/blob/master/BLABLA.jpg)
