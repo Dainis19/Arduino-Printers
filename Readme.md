@@ -27,7 +27,7 @@
 * 16 Robu trīslis
 * Gumijas lenta ar robiem (5m)
 * L293D Mehāniskais aizsargs
-* L293D Mehāniskais drauveris IC (2x)
+* L293D Mehāniskais draiveris IC (2x)
 * Servo motors
 * Steppera motors (ieteicams Nema17)
 
